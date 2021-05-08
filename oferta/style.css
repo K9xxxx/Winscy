@@ -199,10 +199,10 @@ footer{
 }
 .creator p{
   color:hsl(0,0%,20%);
-  font-family: 'Great Vibes', cursive;
+  font-family: 'Roboto', sans-serif;
 }
 .creator a{
-  font-family: 'Great Vibes', cursive;
+  font-family: 'Roboto', sans-serif;
   color:darkred;
   font-weight:bold;
 }
